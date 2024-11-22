@@ -1,2 +1,2 @@
-let trial;
 console.log(trial);
+let trial;
